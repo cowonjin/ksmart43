@@ -1,2 +1,2 @@
-# ksmart43
-spring boot mybatis 연동 실습
+# ksmart43_spring boot
+###스프링부트 mybatis 연동 실습
